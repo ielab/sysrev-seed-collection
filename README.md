@@ -4,7 +4,7 @@ The file is seperated into two sections:
 >- **collection_data**: contains organised data, including basic data, search data and snowballing data.
 >- **experiments**: contains result and data usage for three experiments, including seed-driven query formulation, seed-driven document ranking, and seed driven snowballing document ranking.
 
-##For folder **collection_data**:
+## For folder **collection_data**:
 
 >- **overall_collection.jsonl**: with each line refering to one topic, every topics includes following attributes:
 

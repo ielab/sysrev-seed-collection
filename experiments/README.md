@@ -1,7 +1,8 @@
 ## For folder **experiment**:
 
+
 Three experiments in the paper are included in this folder, including:
->- **query_formulation:** Automatic query formulation expeirment.
+>- **query_formulation:** Automatic query formulation experiment.
 >- **sdr_document_ranking:** Seed-driven document ranking.
 >- **sdr_snowballing:** Seed-driven snowballing document ranking.
 
@@ -16,7 +17,7 @@ For collection analysis:
 > `python3 gather_all_pids.py`<br>
 > `python3 collection_gathering.py`<br>
 > `python3 collection_processing.py` <br>
-> #### In this way you will create a jsonl file inside folder **collection** that's storing the processed title and abstract of all pubmed articles appeared in the collection.
+> #### In this way, you will create a jsonl file inside folder **collection** that stores the processed title and abstract of all PubMed articles that appeared in the collection.
 
 ***
-Please refer to paper "From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search"
+Please refer to the paper "From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search"

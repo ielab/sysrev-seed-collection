@@ -1,0 +1,18 @@
+Topic: 3
+
+Title: Does copper treatment of commonly touched surfaces reduce healthcare-acquired infections? A systematic review and meta-analysis
+
+Query: 
+("Copper"[Mesh] OR Copper[tiab]) AND ("Infections"[Mesh] OR "Equipment Contamination"[Mesh] OR "Infection Control"[Mesh] OR "Cross Infection"[Mesh] OR Infection[tiab] OR Infections[tiab] OR Colonization[tiab]) AND ("Health Facilities"[Mesh] OR Hospital[tiab] OR Hospitals[tiab] OR "Healthcare facility"[tiab] OR "Healthcare facilities"[tiab] OR  "Intensive care"[tiab] OR "Intensive-care"[tiab] OR ICU[tiab] OR PICU[tiab] OR Ward[tiab] OR Wards[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab] OR Control[tiab] OR Controlled[tiab] OR Comparing[tiab] OR Compared[tiab]) NOT  (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh])) NOT ("Case Reports"[pt] OR Editorial[pt] OR Letter[pt] OR "Comment"[pt] OR Meta-Analysis[pt] OR "Observational Study"[pt] OR "Systematic Review"[pt] OR "Case Report"[ti] OR "Case series"[ti] OR Meta-Analysis[ti] OR "Meta Analysis"[ti] OR "Systematic Review"[ti])
+
+Pids:
+	28034536
+	32068014
+	26163568
+	25146200
+	23571364
+	27692785
+	27318524
+	30954421
+	23571364
+	28034536

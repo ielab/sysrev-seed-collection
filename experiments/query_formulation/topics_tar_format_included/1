@@ -1,0 +1,46 @@
+Topic: 1
+
+Title: Downsides of face masks and possible mitigation strategies: a systematic review and meta-analysis
+
+Query: 
+(("Masks/adverse effects"[MAJR]) OR ((Masks[Mesh] OR "Respiratory protective devices"[Mesh] OR Facemask[tiab] OR Facemasks[tiab] OR Mask[tiab] OR Masks[tiab] OR Faceshield[tiab] OR Faceshields[tiab] OR Goggles[tiab] OR "Face shield"[tiab] OR "Face shields"[tiab] OR Visors[tiab] OR "Face covering"[tiab]) AND ("Adverse effects"[sh] OR "Adverse effect"[tiab] OR "Adverse effects"[tiab] OR "Adversely affect"[tiab] OR "Adverse event"[tiab] OR "Adverse events"[tiab] OR Discomfort[tiab] OR Fatigue[tiab] OR Pain[tiab] OR "Difficulty breathing"[tiab] OR "Breathing difficulty"[tiab] OR "Shortness of breath"[tiab] OR "Risk compensation"[tiab] OR Fomite[tiab] OR Fomites[tiab] OR Dislike[tiab] OR "Physiological impacts"[tiab] OR "Physiological impact"[tiab] OR Sweating[tiab] OR Irritation[tiab] OR "Psychological reactions"[tiab] OR Fear[tiab] OR Communication[tiab] OR "Deaf persons"[tiab] OR Lip-reading[tiab] OR "Lip reading"[tiab] OR Vitiligo[tiab] OR Humidity[tiab] OR "Face dermatitis"[tiab] OR Acne[tiab] OR Redness[tiab] OR Ulcer[tiab] OR "Speech understanding"[tiab] OR "Pinching of skin"[tiab] OR "Moisture buildup"[tiab] OR "Facial warmth"[tiab]) AND (Relieve[tiab] OR Attitudes[tiab] OR Induced[tiab] OR Modified[tiab] OR Decreased[tiab] OR Decrease[tiab] OR Associated[tiab] OR Impair[tiab] OR Reduce[tiab] OR Reducing[tiab] OR Reduced[tiab] OR Duration[tiab])  AND ("randomized controlled trial"[pt] OR "controlled clinical trial"[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR randomly[tiab] OR trial[tiab] OR groups[tiab] OR "Epidemiologic Studies"[Mesh] OR "case-control studies"[Mesh] OR "Cohort Studies"[Mesh] OR "case control"[tiab] OR Cohort[tiab] OR "Follow up"[tiab] OR Observational[tiab] OR Longitudinal[tiab] OR Prospective[tiab] OR Retrospective[tiab] OR "cross sectional"[tiab] OR "Cross-Sectional Studies"[Mesh] OR Evaluated[tiab] OR Impact[tiab] OR Analysis[tiab] OR Statistics[tiab] OR Data[tiab] OR "statistics and numerical data"[sh] OR "epidemiology"[sh] OR Etiology[sh] OR Effect[tiab] OR Effects[tiab] OR Affect[tiab]))) NOT ("Continuous Positive Airway Pressure"[Mesh] OR "Positive Airway Pressure"[tiab] OR CPAP[tiab] OR "Laryngeal Masks"[Mesh] OR "Intubation, Intratracheal"[Mesh] OR "Oxygen masks"[tiab] OR "Oxygen mask"[tiab] OR OxyMask[tiab] OR "Nasal masks"[tiab] OR "Patil-Syracuse Mask"[tiab] OR "Ventilation masks"[tiab] OR "Venti-Mask"[tiab] OR "Venturi mask"[tiab] OR "Diving masks"[tiab] OR "Thermoplastic masks"[tiab] OR Bag-valve-mask[tiab] OR "Laryngeal mask"[tiab] OR "Laryngeal masks"[tiab] OR "Oronasal masks"[tiab] OR "Sleep mask"[tiab] OR Editorial[pt] OR Letter[pt] OR "Case reports"[pt]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh]))
+
+Pids:
+	22295066
+	20836797
+	20036443
+	25336079
+	18295373
+	21103330
+	26980847
+	31159777
+	19652172
+	18461182
+	21198810
+	17026695
+	19216002
+	15340662
+	20297744
+	21893677
+	16441251
+	19193267
+	25903751
+	21477136
+	23413265
+	22503134
+	14993174
+	32232837
+	29322580
+	29395560
+	19126810
+	31479137
+	22326638
+	23768438
+	22168256
+	21651736
+	21211103
+	22280120
+	21382570
+	16581214
+	32432708
+	24364989

@@ -1,0 +1,41 @@
+Topic: 15
+
+Title: Australian state influenza notifications and school holiday closures in 2019
+
+Query: 
+(("Influenza, Human"[Mesh] OR Influenza[tiab] OR "Respiratory viruses"[tiab]) AND (Schools[Mesh] OR School[tiab] OR Schools[tiab] OR ((Children[tiab]) AND (Community)) OR (("Young Adult"[Mesh] OR "Adolescent"[Mesh] OR Child[Mesh] OR Infant[Mesh]) AND ("Population Surveillance"[Mesh] OR Pandemics[Mesh] OR Pandemic[tiab] OR Pandemics[tiab]))) AND ("Absenteeism"[Mesh] OR Closure[tiab] OR Closures[tiab] OR Closed[tiab] OR Vacation[tiab] OR Holiday[tiab] OR Holidays[tiab] OR Outbreak[tiab] OR Outbreaks[tiab] OR Dismissed[tiab] OR Epidemiological[tiab] OR Surveillance[tiab]) AND (Incidence[Mesh] OR Morbidity[Mesh] OR "Population Surveillance"[Mesh] OR "Disease Notification"[Mesh] OR "Disease Outbreaks"[Mesh] OR Incidence[tiab] OR Morbidity[tiab] OR Mortality[tiab] OR Case[tiab] OR Cases[tiab]) AND ("Epidemiologic Studies"[Mesh] OR "case-control studies"[Mesh] OR "Cohort Studies"[Mesh] OR "case control"[tiab] OR Longitudinal[tiab] OR Prospective[tiab] OR retrospective[tiab] OR "cross sectional"[tiab] OR "Cross-Sectional Studies"[Mesh] OR Investigated[tiab] OR Analysis[tiab] OR Data[tiab] OR "statistics and numerical data"[sh] OR "epidemiology"[sh]))
+
+Pids:
+	19589329
+	19712648
+	19925691
+	20587360
+	18401408
+	21629683
+	21629683
+	21712984
+	21712984
+	21888814
+	18826841
+	21888809
+	21624784
+	12195054
+	712125
+	19883547
+	21361398
+	20678333
+	20795308
+	21342907
+	19861075
+	20735942
+	4392209
+	17888862
+	21342887
+	21342888
+	7221685
+	19770773
+	19555600
+	3965596
+	19903205
+	21668666
+	21121230

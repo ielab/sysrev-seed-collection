@@ -1,0 +1,29 @@
+Topic: 52
+
+Title: Comparing the quantity and quality of randomised placebo-controlled trials of antibiotics for acute respiratory, urinary, and skin and soft tissue infections: a scoping review
+
+Query: 
+("Anti-Bacterial Agents"[Mesh] OR "Macrolides"[Mesh] OR "beta-Lactams"[Mesh] OR "Fluoroquinolones"[Mesh] OR "Sulfonamides"[Mesh] OR "Tetracyclines"[Mesh] OR "Aminoglycosides"[Mesh] OR Antibacterial[tiab] OR Antibacterials[tiab] OR Antibiotics[tiab] OR Antibiotic[tiab] OR Macrolides[tiab] OR Macrolide[tiab] OR beta-Lactams[tiab] OR Fluoroquinolones[tiab] OR Sulfonamides[tiab] OR Tetracyclines[tiab] OR Aminoglycosides[tiab] OR Antimicrobial[tiab] OR Antimicrobials[tiab] OR Penicillin[tiab] OR Penicillins[tiab] OR Methicillin[tiab] OR ampicillin[tiab] OR azithromycin[tiab] OR Cephalexin[tiab] OR Maytansine[tiab] OR Mepartricin[tiab] OR Miocamycin[tiab] OR Natamycin[tiab] OR Nystatin[tiab] OR Oleandomycin[tiab] OR Troleandomycin[tiab] OR Oligomycins[tiab] OR Rutamycin[tiab] OR Sirolimus[tiab] OR Everolimus[tiab] OR Tacrolimus[tiab] OR Tylosin[tiab] OR Amphotericin[tiab] OR Antimycin[tiab] OR Brefeldin [tiab] OR Bryostatins [tiab] OR Candicidin[tiab] OR Epothilones[tiab] OR Erythromycin[tiab] OR Azithromycin[tiab] OR Clarithromycin[tiab] OR Ketolides[tiab] OR Roxithromycin[tiab] OR Filipin[tiab] OR Ivermectin[tiab] OR Josamycin[tiab] OR Leucomycins[tiab] OR Kitasamycin[tiab] OR Spiramycin[tiab] OR Carbapenems[tiab] OR Thienamycins[tiab] OR Cephalosporins[tiab] OR Cefamandole[tiab] OR Cefazolin[tiab] OR Cefonicid[tiab] OR Cefsulodin[tiab] OR Cephacetrile[tiab] OR Cephalexin[tiab] OR Cephaloridine[tiab] OR Cephamycins[tiab] OR Clavulanic[tiab] OR Monobactams[tiab] OR Aztreonam[tiab] OR Moxalactam[tiab] OR Amdinocillin[tiab] OR Cyclacillin[tiab] OR Methicillin[tiab] OR Nafcillin[tiab] OR Oxacillin[tiab] OR Penicillanic[tiab] OR Sulbactam[tiab] OR Ticarcillin[tiab] OR Amoxicillin[tiab] OR Ciprofloxacin[tiab] OR Fleroxacin[tiab] OR Enoxacin[tiab] OR Norfloxacin[tiab] OR Ofloxacin[tiab] OR Levofloxacin[tiab] OR Pefloxacin[tiab]) AND ("Placebos"[Mesh] OR Placebos[tiab] OR Placebo[tiab] OR Placeboes[tiab] OR "Sham treatment"[tiab] OR "No treatment"[tiab]) AND ("Urinary Tract Infections"[Mesh] OR "Urinary Tract Infections"[tiab] OR "Urinary Tract Infection"[tiab] OR UTIs[tiab] OR UTI[tiab] OR Cystitis[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh]))
+
+Pids:
+	23102749
+	19900794
+	24173585
+	19934396
+	20001574
+	21173186
+	23952463
+	25114794
+	19895519
+	17165634
+	20863734
+	12939895
+	12202325
+	23772045
+	21631837
+	22085732
+	20429820
+	23542420
+	20149402
+	20825801
+	24961714

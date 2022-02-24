@@ -1,0 +1,39 @@
+template seed $0
+{
+  "statistic": {
+    "source": "entrez",
+    "options": {
+      "email": "h.scells@uq.edu.au",
+      "tool": "querylab",
+      "key": "eb8d49885d85feea8f7188e9c60d29e3d308",
+      "search": {
+        "size": 100000,
+        "run_name": "0"
+      }
+    }
+  },
+  "query": {
+    "format": "pubmed",
+    "path": "../data/queries"
+  },
+  "output": {
+    "evaluations": {
+      "qrels": "included_studies.qrels",
+      "grade": 0
+    }
+  },
+  "formulation": {
+    "method": "objective",
+    "options": {
+      "pubdates": "../data/date_restriction",
+      "semtypes": "j_formulation_experiment_data/cui_semantic_types.txt",
+      "metamap": "http://ielab-metamap.uqcloud.net",
+      "analyser": "rake",
+      "background_collection": "pubmed",
+      "splitter": "random",
+      "optimisation": "recall",
+      "seed": "%seed",
+      "elastic_umls": "http://localhost:9200"
+    }
+  }
+}

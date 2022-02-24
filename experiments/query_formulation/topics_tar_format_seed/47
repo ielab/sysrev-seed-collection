@@ -1,0 +1,24 @@
+Topic: 47
+
+Title: Effectiveness and sustainability of deprescribing for hospitalized older patients near end of life: a systematic review
+
+Query: 
+( Deprescriptions[Mesh] OR Deprescription[tiab] OR Deprescribing[tiab] OR Deprescribe[tiab] OR Deprescribed[tiab] OR ((Inappropriate[tiab] OR Ceased[tiab] OR Cease[tiab] OR Substituted[tiab] OR Reduce[tiab] OR Reduced[tiab] OR Reduction[tiab] OR Stopped[tiab] OR Stop[tiab] OR Discontinue[tiab] OR Discontinued[tiab] OR Discontinuing[tiab] OR Withdraw[tiab] OR Withdrawing[tiab] OR Withdrawl[tiab] OR Withdrawal[tiab]) AND (Medication[tiab] OR Medications[tiab] OR Polypharmacy[Mesh] OR Polypharmacy[tiab] OR Prescribing[tiab])) ) AND (Aged[Mesh] OR Elderly[tiab] OR Older[tiab] OR Old[tiab]) AND ("Terminal Care"[Mesh] OR "Nursing Homes"[Mesh] OR "Frail Elderly"[Mesh] OR "Aged care"[tiab] OR Life[tiab] OR "Last year"[tiab] OR Hospitalization[tiab] OR Hospitalisation[tiab] OR Hospitalized[tiab] OR Hospitalised[tiab] OR Chronic[tiab]) AND (Effective[tiab] OR Effectiveness[tiab] OR Efficacy[tiab] OR Reduction[tiab] OR Implemented[tiab] OR Benefit[tiab] OR Adverse[tiab]) AND (("randomized controlled trial"[pt] OR "controlled clinical trial"[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR randomly[tiab] OR trial[tiab] OR groups[tiab] OR "Cohort Studies"[Mesh] OR Cohort[tiab] OR "Follow up"[tiab] OR Longitudinal[tiab] OR Prospective[tiab] OR Investigated[tiab] OR Analysis[tiab] OR Statistics[tiab] OR Data[tiab] OR "statistics and numerical data"[sh] OR "epidemiology"[sh]) OR (((Search[tiab] OR Searched[tiab]) AND (PubMed[tiab] OR MEDLINE[tiab])) OR (systematic[tiab] AND review[tiab]) OR ((systematically[tiab] OR reviewed[tiab]) AND literature[tiab]) OR meta analysis[Publication Type]) OR ("Cochrane Database Syst Rev"[journal])) AND ("Hospitals"[Mesh] OR "Hospital Medicine"[Mesh] OR "Intensive Care Units"[Mesh] OR Hospitalization[tiab] OR Hospitalisation[tiab] OR Hospitalized[tiab] OR Hospitalised[tiab] OR Hospital[tiab] OR "Intensive care"[tiab])
+
+Pids:
+	23543555
+	23210113
+	29202782
+	27077231
+	27451330
+	28063660
+	29986668
+	28544188
+	19712203
+	22385783
+	23136399
+	27965033
+	20940385
+	29541966
+	28220380
+	29052691

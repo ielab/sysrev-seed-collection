@@ -1,0 +1,50 @@
+template logic_composer $0
+template entity_expander $1
+template keyword_mapper $2
+template relevance_feedback $3
+template batch $4
+{
+  "statistic": {
+    "source": "entrez",
+    "options": {
+      "email": "h.scells@uq.edu.au",
+      "tool": "querylab",
+      "key": "eb8d49885d85feea8f7188e9c60d29e3d308",
+      "search": {
+        "size": 100000,
+        "run_name": "0"
+      }
+    }
+  },
+  "query": {
+    "format": "tar",
+    "path": "topics_tar_format_included"
+  },
+  "output": {
+    "evaluations": {
+      "qrels": "included_studies.qrels",
+      "grade": 0
+    }
+  },
+  "formulation": {
+    "method": "conceptual",
+    "options": {
+      "pubdates": "../data/date_restriction",
+      "logic_composer": "%logic_composer",
+      "logic_composer.titles": "j_formulation_experiment_data/dylan_titles.json",
+      "logic_composer.dev_qrels": "objective_included/objective_dylan_%batch_recall/objective/dev.qrels",
+      "relevance_feedback": "%relevance_feedback",
+      "entity_extractor": "metamap",
+      "entity_expander": "%entity_expander",
+      "entity_expander.cui2vec_precomputed_embeddings": "j_formulation_experiment_data/cui2vec_precomputed.bin",
+      "entity_expander.cui2vec_rpc": "localhost:8003",
+      "keyword_mapper": "metamap",
+      "keyword_mapper.mapper": "%keyword_mapper",
+      "keyword_mapper.mapper.elastic_umls": "http://localhost:9200",
+      "keyword_mapper.mapper.cui2vec_frequent_mapping": "j_formulation_experiment_data/cuis.csv",
+      "keyword_mapper.mapper.cui2vec_alias_mapping": "j_formulation_experiment_data/ICUI_STR_Frequency.csv",
+      "metamap_url": "https://ielab-metamap.uqcloud.net",
+      "semtypes": "j_formulation_experiment_data/cui_semantic_types.txt"
+    }
+  }
+}

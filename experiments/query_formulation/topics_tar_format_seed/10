@@ -1,0 +1,15 @@
+Topic: 10
+
+Title: Head of bed elevation to relieve gastroesophageal reflux symptoms: a systematic review
+
+Query: 
+("Gastroesophageal Reflux"[Mesh] OR "Esophagitis"[Mesh] OR "Heartburn"[Mesh] OR "Dyspepsia"[Mesh] OR "Duodenogastric Reflux"[Mesh] OR Reflux[tiab] OR GERD[tiab] OR Oesophagitis[tiab] OR Esophagitis[tiab] OR Heartburn[tiab] OR "Heart burn"[tiab] OR GORD[tiab] OR Dyspepsia[tiab] OR Dyspepsias[tiab] OR Indigestion[tiab] OR Indigestions[tiab]) AND ("Sleep"[Mesh] OR Sleep[tiab] OR Sleeping[tiab] OR Bed[tiab] OR Bed-Head[tiab] OR Bed-up[tiab] OR Bedrest[tiab] OR Bed-rest[tiab] OR Nocturnal[tiab] OR Wedge[tiab]) AND ("Patient Positioning"[Mesh] OR "Supine Position"[Mesh] OR Positioning[tiab] OR Position[tiab] OR Supine[tiab] OR Elevation[tiab] OR Elevated OR Raised[tiab] OR Semi-recumbent[tiab] OR Semireclined[tiab] OR Semi-reclined[tiab] OR "Semi reclined"[tiab] OR Left-side[tiab] OR Right-side[tiab] OR Side[tiab] OR Lateral[tiab])
+
+Pids:
+	27629558
+	3359906
+	2890820
+	22098332
+	26053170
+	14044
+	32229033

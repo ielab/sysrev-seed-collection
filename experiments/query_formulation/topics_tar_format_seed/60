@@ -1,0 +1,23 @@
+Topic: 60
+
+Title: Effectiveness of Different Topical Treatments in the Healing of Pressure Injuries: A Network Meta-analysis
+
+Query: 
+(Bandages[Mesh] OR Alginates[Mesh] OR Hydrogels[Mesh] OR Silver[Mesh] OR "Silver Sulfadiazine"[Mesh] OR Honey[Mesh] OR "Collagenases"[Mesh] OR Bandage[tiab] OR Bandages[tiab] OR Dressing[tiab] OR Dressings[tiab] OR Pad[tiab] OR Pads[tiab] OR Gauze[tiab] OR Tulle[tiab] OR Film[tiab] OR Films[tiab] OR Alginate[tiab] OR Alginates[tiab] OR Hydrogel[tiab] OR Hydrogels[tiab] OR Silver OR Bead[tiab] OR Foam[tiab] OR Foams[tiab] OR non-adherent[tiab] OR "non adherent"[tiab] OR hydrocolloid[tiab] OR Hydrocolloids[tiab] OR Honey[tiab] OR Honeys[tiab] OR matrix[tiab] OR Collagenases[tiab] OR Collagenase[tiab]) AND ("Pressure Ulcer"[Mesh] OR "Pressure ulcer"[tiab] OR "Pressure ulcers"[tiab] OR Bedsore[tiab] OR Bedsores[tiab] OR "Pressure Sore"[tiab] OR "Pressure Sores"[tiab] OR "Bed Sores"[tiab] OR "Bed Sore"[tiab] OR "Decubitus Ulcer"[tiab] OR "Decubitus Ulcers"[tiab]) AND ("Wound Healing"[Mesh] OR "Debridement"[Mesh] OR Healing[tiab] OR Healings[tiab] OR "Wound therapy"[tiab] OR Debridement[tiab] OR Debridements[tiab] OR "Wound treatment"[tiab] OR Treating[tiab]) AND (randomized controlled trial[Publication Type] OR controlled clinical trial[Publication Type] OR randomized[Title/Abstract] OR randomised[Title/Abstract] OR placebo[Title/Abstract] OR "drug therapy"[MeSH Terms] OR randomly[Title/Abstract] OR trial[Title/Abstract] OR groups[Title/Abstract]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh]/))
+
+Pids:
+	10326343
+	2202317
+	10687651
+	25876167
+	25901516
+	9543975
+	24086815
+	1933306
+	11933727
+	16240620
+	8954425
+	9117814
+	10207960
+	17166097
+	12028208

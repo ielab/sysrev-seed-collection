@@ -1,0 +1,16 @@
+Topic: 105
+
+Title: Self-Management for Men With Lower Urinary Tract Symptoms: A Systematic Review and Meta-Analysis
+
+Query: 
+("Lower Urinary Tract Symptoms"[Mesh] OR "Prostatic Hyperplasia"[Mesh] OR "Urinary tract symptoms"[tiab] OR LUTS[tiab] OR Dysuria[tiab] OR Nocturia[tiab] OR Prostatism[tiab] OR "Overactive bladder"[tiab] OR "Underactive bladder"[tiab] OR "Urinary Incontinence"[tiab] OR "Urinary Stress"[tiab] OR "Urinary Urge"[tiab] OR "Painful Urination"[tiab] OR "Frequent Urination"[tiab] OR Nycturia[tiab] OR "Urge Incontinence"[tiab] OR "Prostatic Hypertrophy"[tiab] OR "Prostatic Hyperplasia"[tiab] OR "Prostatic Adenomas"[tiab] OR "Prostatic Adenoma"[tiab]) AND ( "Self Care"[Mesh] OR "Behavior Therapy"[Mesh] OR "Life Style"[Mesh] OR "Self care"[tiab] OR "Self management"[tiab] OR Self-management[tiab] OR SMP[tiab] OR Behavioral[tiab] OR Behavioural[tiab] OR "Education"[tiab] OR "Fluid management"[tiab] OR "Bladder retraining"[tiab] OR "Bladder re-training"[tiab] OR "Toileting"[tiab] OR "Toilet training"[tiab] OR "Fluid input"[tiab] OR "Fluid manipulation"[tiab] OR Lifestyle[ti] OR "Life style"[ti] OR Lifestyles[ti] OR "Life styles"[ti] OR ((Avoid[tiab] OR Avoiding[tiab]) AND (Constipation[tiab])) OR (("Fluid intake"[tiab]) AND (Increase[tiab] OR Increasing[tiab] OR Decrease[tiab] OR Decreasing[tiab] OR Modify[tiab] OR Modifying[tiab])) OR (("Pelvic floor"[tiab]) AND (training[tiab] OR exercise[tiab] OR exercises[tiab])) ) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh])) NOT (Female[Mesh] not (female[Mesh] and male[Mesh]))
+
+Pids:
+	17118949
+	22482874
+	28332234
+	17113895
+	22092152
+	31930360
+	28029383
+	9202555

@@ -1,0 +1,68 @@
+template queries $0
+template output $1
+template qrel $2
+{
+  "query": {
+    "format": "pubmed",
+    "path": "%queries"
+  },
+  "statistic": {
+    "source": "entrez",
+    "options": {
+      "email": "h.scells@uq.edu.au",
+      "tool": "querylab",
+      "key": "eb8d49885d85feea8f7188e9c60d29e3d308",
+      "search": {
+        "size": 100000,
+        "run_name": "0"
+      }
+    }
+  },
+  "output": {
+    "evaluations": {
+      "qrels": "%qrel",
+      "grade": 0,
+      "formats": [
+        {
+          "format": "json",
+          "filename": "%output"
+        }
+      ]
+    }
+  },
+  "transformations": {
+    "operations": [
+      "date_restrictions"
+    ]
+  },
+  "preprocess_options": {
+    "date_restrictions.file": "j_formulation_experiment_data/tar18_pubdates"
+  },
+  "evaluation": [
+    "precision",
+    "mle_precision",
+    "residual_precision",
+    "recall",
+    "mle_recall",
+    "residual_recall",
+    "f1_measure",
+    "mle_f1_measure",
+    "residual_f1_measure",
+    "f05_measure",
+    "mle_f05_measure",
+    "residual_f05_measure",
+    "f3_measure",
+    "mle_f3_measure",
+    "residual_f3_measure",
+    "wss",
+    "mle_wss",
+    "residual_wss",
+    "num_ret",
+    "num_rel",
+    "num_rel_ret"
+  ],
+  "headway": {
+    "host": "https://ielab-logging.uqcloud.net",
+    "secret": "5b255705-bf4f-4eb4-864f-7befbcd1a7c3"
+  }
+}

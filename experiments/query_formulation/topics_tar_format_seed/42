@@ -1,0 +1,26 @@
+Topic: 42
+
+Title: A unified framework for bias assessment in clinical research
+
+Query: 
+( ("Checklist"[Mesh] OR "Forms and Records Control"[Mesh] OR Checklist[tiab] OR Checklists[tiab] OR Tool[tiab] OR Tools[tiab] OR Scale[tiab] OR Scales[tiab] OR Score[tiab] OR Scores[tiab] OR Scored[tiab]) AND ("Research Design/methods"[Mesh] OR "Research Design/standards"[Mesh] OR Valid[tiab] OR Validity[tiab] OR Quality[tiab] OR "Critical appraisal"[tiab] OR "Critical review"[tiab] OR Bias[tiab] OR Biased[tiab]) AND (Assess[tiab] OR Assessed[tiab] OR Assessing[tiab] OR Assessment[tiab] OR Measure[tiab] OR Measures[tiab] OR Measured[tiab] OR Evaluate[tiab] OR Evaluated[tiab] OR Evaluating[tiab]) AND ("Meta-Analysis as Topic"[Mesh] OR "Review Literature as Topic"[Mesh] OR "Clinical Trials as Topic"[Mesh] OR Study[tiab] OR Studies[tiab] OR Article[tiab] OR Articles[tiab] OR Meta-Analysis[tiab] OR "Meta Analysis"[tiab] OR Metaanalysis[tiab] OR Meta-analyses[tiab] OR "Meta analyses"[tiab] OR Metaanalyses[tiab]) AND ("Methods"[Mesh] OR Method[tiab] OR Methodological[tiab] OR Methodology[tiab] OR Methodologic[tiab]) AND ("Reproducibility of Results"[Mesh] OR "Quality Control"[Mesh] OR Reproducibility[tiab] OR Evidence[tiab] OR Reliability[tiab] OR Reliable[tiab] OR Index[tiab] OR Proxy[tiab]) ) AND ( (Scale[ti] OR Scales[ti] OR Checklist[ti] OR Checklists[ti] OR Tool[ti] OR Tools[ti] OR Instrument[ti] OR Instruments[ti] OR Technique[ti] OR Techniques[ti] OR Score[ti] OR Scored[ti] OR Quality[ti] OR Assess[ti] OR Assessed[ti] OR Assessing[ti] OR Assessment[ti] OR Evaluate[ti] OR Evaluated[ti] OR Evaluating[ti]))
+
+Pids:
+	6731012
+	7261638
+	8015115
+	14499048
+	9764259
+	3986472
+	16737407
+	8198342
+	12038917
+	8721797
+	10493204
+	4058339
+	12882612
+	7743790
+	8707495
+	18073267
+	17470488
+	10806979

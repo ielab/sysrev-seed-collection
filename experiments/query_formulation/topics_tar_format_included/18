@@ -1,0 +1,9 @@
+Topic: 18
+
+Title: Interventions that improve the rate of unspecified altruistic living kidney donations: a systematic review
+
+Query: 
+(("Kidney Transplantation"[Mesh] OR "Kidney Transplantation"[tiab] OR "Kidney Transplantations"[tiab] OR "Kidney Transplant"[tiab] OR "Kidney Transplants"[tiab] OR "Kidney Procurement"[tiab] OR "Kidney Procurements"[tiab] OR "Kidney Donation"[tiab] OR "Kidney Donations"[tiab] OR "Kidney donor"[tiab] OR "Kidney donors"[tiab]) AND ("Transplants"[Mesh] OR "transplantation"[sh] OR "Transplant Recipients"[Mesh] OR "Transplant Donor Site"[Mesh] OR "Organ Transplantation"[Mesh] OR Transplant[tiab] OR Transplantation[tiab] OR Transplants[tiab] OR Transplantations[tiab]) AND (Promote[tiab] OR Law[tiab] OR Laws[tiab] OR Legislation[tiab] OR Champion[tiab] OR Champions[tiab] OR Pursuit[tiab] OR "Promotion program"[tiab] OR "Promotion programs"[tiab] OR "Donation program"[tiab] OR "Donation programs"[tiab] OR "Transplantation program"[tiab] OR "Transplantation programs"[tiab] OR "Educational program"[tiab] OR "Educational programs"[tiab] OR Application[tiab]) AND (Increase[tiab] OR Increased[tiab] OR Higher[tiab] OR Improved[tiab] OR Rate[tiab] OR Rates[tiab]) AND ("randomized controlled trial"[pt] OR "controlled clinical trial"[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR randomly[tiab] OR trial[tiab] OR groups[tiab] OR "Epidemiologic Studies"[Mesh] OR "case-control studies"[Mesh] OR "Cohort Studies"[Mesh] OR "case control"[tiab] OR Cohort[tiab] OR "Follow up"[tiab] OR Prospective[tiab] OR retrospective[tiab] OR Analysis[tiab] OR Implementation[tiab] OR Evaluated[tiab] OR Statistics[tiab] OR Data[tiab] OR "statistics and numerical data"[sh]))
+
+Pids:
+	29879921

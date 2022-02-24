@@ -1,0 +1,38 @@
+Topic: 6
+
+Title: Metformin is comparable to insulin for pharmacotherapy in gestational diabetes mellitus: A network meta-analysis evaluating 6046 women
+
+Query: 
+(("Diabetes, Gestational"[Mesh] OR "Gestational diabetes"[tiab] OR "Pregnancy-Induced Diabetes"[tiab] OR "Pregnancy Induced Diabetes"[tiab]) AND ("Glyburide"[Mesh] OR "Acarbose"[Mesh] OR "Metformin"[Mesh] OR "Biguanides"[Mesh] OR "Sulfonylurea Compounds"[Mesh] OR "Thiazolidinediones"[Mesh] OR "Dipeptidyl-Peptidase IV Inhibitors"[Mesh] OR "Glycoside Hydrolase Inhibitors"[Mesh] OR "Sodium-Glucose Transporter 2 Inhibitors"[Mesh] OR "Insulin"[Mesh] OR "Glucagon-Like Peptide 1"[Mesh] OR "Exenatide"[Mesh] OR "Glipizide"[Mesh] OR "Insulin Lispro"[Mesh] OR "Isophane Insulin, Human"[Mesh] OR "Insulin, Isophane"[Mesh] OR "Insulin Glargine"[Mesh] OR "Insulins"[Mesh] OR "Xultophy" [Supplementary Concept] OR "Liraglutide"[Mesh] OR "Linagliptin"[Mesh] OR "repaglinide" [Supplementary Concept] OR "Sitagliptin Phosphate"[Mesh] OR "Sitagliptin Phosphate, Metformin Hydrochloride Drug Combination"[Mesh] OR "empagliflozin" [Supplementary Concept] OR "dulaglutide" [Supplementary Concept] OR Glyburide[tiab] OR Glybenclamide[tiab] OR Glibenclamide[tiab] OR Diabeta[tiab] OR "Euglucon 5"[tiab] OR Neogluconin[tiab] OR HB-419[tiab] OR "HB 419"[tiab] OR HB419[tiab] OR HB-420[tiab] OR "HB 420"[tiab] OR HB420[tiab] OR Maninil[tiab] OR Micronase[tiab] OR Daonil[tiab] OR "Euglucon N"[tiab] OR "Acarbose"[tiab] OR Glumida[tiab] OR Glucobay[tiab] OR Glucor[tiab] OR "Bay g 5421"[tiab] OR Prandase[tiab] OR Precose[tiab] OR "Metformin"[tiab] OR Dimethylbiguanidine[tiab] OR Dimethylguanylguanidine[tiab] OR Glucophage[tiab] OR biguanides[tiab] OR sulfonylureas[tiab] OR meglitinides[tiab] OR thiazolidinediones[tiab] OR "dipeptidyl peptidase IV inhibitors"[tiab] OR "DPP-IV inhibitors"[tiab] OR "α-glucosidase inhibitors"[tiab] OR "SGLT2 inhibitors"[tiab] OR gliflozins[tiab] OR Insulin[tiab] OR "Glucagon like peptide–1"[tiab] OR "GLP-1 agonists"[tiab] OR Amylinomimetics[tiab] OR Exenatide[tiab] OR Glicalzide[tiab] OR Glimepride[tiab] OR Glipizide[tiab] OR Mixtard[tiab] OR Actrapid[tiab] OR Humalog[tiab] OR Insulatard[tiab] OR Isophane[tiab] OR Glargine[tiab] OR "Levemir Detemir"[tiab] OR "Degludec pen"[tiab] OR "Novomix pen"[tiab] OR "Novoraid vial"[tiab] OR "Saxenda liraglutide"[tiab] OR Linagliptin[tiab] OR Dapagliflozin[tiab] OR Piogitazine[tiab] OR Repaglinide[tiab] OR "Galvus met"[tiab] OR Vidagliptin[tiab] OR Sitagliptin[tiab] OR Janumet[tiab] OR Empagliflozin[tiab] OR Dulaglutide[tiab]) AND ("Therapeutic use"[sh] OR Therapeutic[tiab] OR Therapy[tiab] OR Therapies[tiab]) AND (Effect[tiab] OR Effects[tiab] OR Impact[tiab] OR Modify[tiab] OR Decrease[tiab] OR Decreases[tiab] OR Declined[tiab] OR Declines[tiab] OR Reduce[tiab] OR Reducing[tiab] OR Reduces[tiab] OR Reduction[tiab] OR Differences[tiab] OR Difference[tiab] OR Different[tiab] OR Comparing[tiab] OR Versus[tiab]) AND ("Female"[Mesh] OR Female[tiab] OR Females[tiab] OR Women[tiab] OR Woman[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh])))
+
+Pids:
+	23524173
+	28077460
+	20027034
+	16318615
+	25725178
+	17669723
+	17684614
+	23718748
+	29715355
+	17113179
+	27413519
+	19375570
+	31427334
+	11036118
+	25467617
+	26992090
+	30191995
+	24217938
+	21083860
+	18161398
+	23068960
+	18463376
+	23020608
+	27226182
+	24304990
+	23626890
+	25538782
+	27597988
+	25688819
+	22505499

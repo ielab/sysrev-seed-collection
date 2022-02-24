@@ -1,0 +1,19 @@
+Topic: 39
+
+Title: The effectiveness of parasympathomimetics for treating underactive bladder: A systematic review and meta‐analysis
+
+Query: 
+("Urinary Bladder, Underactive"[Mesh] OR "Urinary Retention"[Mesh] OR "Urodynamics"[Mesh] OR "Residual urine"[tiab] OR "Urinary retention"[tiab] OR "Urodynamic study"[tiab] OR "Urodynamic parameters"[tiab] OR ((Underactive[tiab] OR Underactivity[tiab] OR Hypotonic[tiab] OR Acontractile[tiab] OR hypocontractility[tiab] OR Failure[tiab] OR Areflexia[tiab] OR Atonic[tiab] Impaired[tiab] OR Dysfunction[tiab]) AND (Bladder[tiab] OR Bladders[tiab] OR Detrusor[tiab] OR Detrusors[tiab]))) AND ("Parasympathomimetics"[Mesh] OR "Parasympathomimetics"[Pharmacological Action] OR  "Receptors, Muscarinic"[Mesh] OR "Bethanechol"[Mesh] OR "Bethanechol Compounds"[Mesh] OR "Carbachol"[Mesh] OR "Diazepam"[Mesh] OR "Cisapride"[Mesh] OR "Phenoxybenzamine"[Mesh] OR "Dinoprost"[Mesh] OR "Neostigmine"[Mesh] OR Parasympathomimetics[tiab] OR Parasympathomimetic[tiab] OR Muscarinic[tiab] OR Bethanechol[tiab] OR Bethanecol[tiab] OR Duvoid[tiab] OR Myotonine[tiab] OR Myocholine[tiab] OR PMS-Bethanechol[tiab] OR Urocarb[tiab] OR Myotonachol[tiab] OR Urecholine[tiab] OR Carbachol[tiab] OR Diazepam[tiab] OR Alfusozine[tiab] OR "Cisapride"[tiab] OR "Distigmine bromide"[tiab] OR Phenoxybenzamine[tiab] OR Prostaglandin[tiab] OR "Neostigmine"[tiab] OR (Myo[tiab] AND Hermes[tiab])) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab] OR Report[ti]) NOT  (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh]))
+
+Pids:
+	6117662
+	9291399
+	13458255
+	2571469
+	14678375
+	9449585
+	15959612
+	21546875
+	1682174
+	6132645
+	14706012

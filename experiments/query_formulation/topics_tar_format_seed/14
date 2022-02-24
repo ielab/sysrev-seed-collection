@@ -1,0 +1,17 @@
+Topic: 14
+
+Title: Impact of COVID-19 pandemic on utilisation of healthcare services: a systematic review
+
+Query: 
+("COVID-19"[Supplementary Concept] OR "COVID-19"[tiab] OR COVID19[tiab] OR "COVID 19"[tiab] OR "SARS-CoV-2"[tiab] OR "2019-nCoV"[tiab] OR "Novel coronavirus"[tiab] OR "Coronavirus 2019"[tiab] OR "Coronavirus 19"[tiab] OR "COVID 2019"[tiab] OR "2019 ncov"[tiab] OR "Wuhan coronavirus"[tiab]) AND (((Pandemic[ti] OR Pandemics[ti] OR Outbreak[ti] OR Outbreaks[ti] OR Hospital[ti] OR Hospitals[ti] OR Emergency[ti] OR Surgery[ti] OR Surgical[ti] OR Department[ti] OR Departments[ti] OR Unit[ti] OR Units[ti] OR Clinic[ti] OR Clinics[ti] OR "Primary care"[ti]) AND (Admission[ti] OR Admissions[ti] OR Visit[ti] OR Visits[ti] OR Attendance[ti] OR Attending[ti] OR Activity[ti] OR Utilization[ti] OR Utilisation[ti] OR Impact[ti] OR Impacts[ti] OR Reduction[ti] OR Reductions[ti] OR Decrease[ti] OR Decreases[ti] OR Decreased[ti] OR Decline[ti] OR Decline[ti] OR Change[ti] OR Changes[ti] OR Increase[ti] OR Increases[ti] OR Increased[ti])) OR ((Pandemic[tiab] OR Pandemics[tiab] OR Outbreak[tiab] OR Outbreaks[tiab]) AND (((Hospital[tiab] OR Hospitals[tiab] OR Emergency[tiab] OR Surgery[tiab] OR Surgical[tiab] OR Department[tiab] OR Departments[tiab] OR Unit[tiab] OR Units[tiab] OR Clinic[tiab] OR Clinics[tiab] OR "Primary care"[tiab] OR Telemedicine[tiab] OR Telehealth[tiab]) AND (Admission[tiab] OR Admissions[tiab] OR Visit[tiab] OR Visits[tiab] OR Attendance[tiab] OR Attending[tiab] OR Activity[tiab] OR Utilization[tiab] OR Utilisation[tiab])) OR (Prescriptions[tiab] OR Prescribed[tiab] OR Vaccinations[tiab] OR Imaging[tiab] OR Scans[tiab] OR Endoscopy[tiab] OR Endoscopic[tiab] OR Endoscopies[tiab])) AND (Impact[tiab] OR Impacts[tiab] OR Reduction[tiab] OR Reductions[tiab] OR Decrease[tiab] OR Decreases[tiab] OR Decreased[tiab] OR Decline[tiab] OR Declines[tiab] OR Changes[tiab] OR Increase[tiab] OR Increases[tiab] OR Increased[tiab])))
+
+Pids:
+	32596921
+	32437340
+	32679205
+	32511563
+	32525856
+	32425710
+	32407585
+	32615891
+	32676681

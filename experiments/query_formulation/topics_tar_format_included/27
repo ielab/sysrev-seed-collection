@@ -1,0 +1,20 @@
+Topic: 27
+
+Title: Efficacy of a 3-day pretravel schedule of tafenoquine for malaria chemoprophylaxis: a network meta-analysis
+
+Query: 
+("Tafenoquine" [Supplementary Concept] OR Tafenoquine[tiab] OR Arakoda[tiab] OR "WR 238605"[tiab] OR "WR-238605"[tiab] OR Krintafel[tiab])AND("Malaria"[Mesh] OR Malaria[tiab] OR "Plasmodium infection"[tiab] OR "Plasmodium Infections"[tiab] OR "Remittent Fever"[tiab] OR "Marsh Fever"[tiab] OR Paludism[tiab])AND("Pre-Exposure Prophylaxis"[Mesh] OR "Chemoprevention"[Mesh] OR "prevention and control"[Subheading] OR Prophylaxis[tiab] OR Chemoprophylaxis[tiab] OR Prevention[tiab] OR Prevent[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh]))
+
+Pids:
+	10885356
+	30388194
+	26610844
+	11584657
+	14689348
+	15378438
+	24700490
+	12594633
+	19635898
+	19995933
+	24502679
+	11700577

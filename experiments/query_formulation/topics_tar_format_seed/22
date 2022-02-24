@@ -1,0 +1,36 @@
+Topic: 22
+
+Title: Immunogenicity after pre- and post-exposure rabies vaccination: A systematic review and dose-response meta-analysis
+
+Query: 
+("rabies vaccines"[Mesh] OR ((vaccination[Mesh]) AND (rabies[Mesh] OR "rabies virus"[Mesh])) OR ((Rabies[tiab]) AND (vaccine[tiab] OR Vaccines[tiab] OR Vaccination[tiab] OR Vaccinations[tiab] OR Immunise[tiab] OR Immunize[tiab] OR Immunisation[tiab] OR Immunization[tiab]))) AND ("immunization, secondary"[Mesh] OR "antibodies, viral"[Mesh] OR "time factors"[Mesh] OR secondary[tiab] OR booster[tiab] OR boost[tiab] OR boosters[tiab] OR boostability[tiab] OR titer[tiab] OR gmt[tiab] OR ((sero[tiab]) AND (conversion[tiab] OR protection[tiab])) OR seroconversion[tiab] OR seroprotection[tiab]) AND ("administration and dosage"[sh] OR Administer[tiab] OR Administered[tiab] OR Administration[tiab] OR Intramuscular[tiab] OR Intradermal[tiab] OR "pre-exposure"[tiab] OR "pre exposure"[tiab]) NOT (animals[Mesh] NOT humans[Mesh])
+
+Pids:
+	28754494
+	29285961
+	29641881
+	29631038
+	30797640
+	31794689
+	31743394
+	31358408
+	28931127
+	29174316
+	29874228
+	28250534
+	29636332
+	29788204
+	29394147
+	30890382
+	28688782
+	28406752
+	28121231
+	29191737
+	29939243
+	31483218
+	30566636
+	30005896
+	31004174
+	28317660
+	28118938
+	31155449

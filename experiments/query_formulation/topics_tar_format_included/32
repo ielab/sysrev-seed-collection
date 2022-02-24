@@ -1,0 +1,12 @@
+Topic: 32
+
+Title: The effectiveness of telehealth versus face-to face interventions for anxiety disorders: A systematic review and meta-analysis
+
+Query: 
+("Telemedicine"[Mesh] OR "Videoconferencing"[Mesh] OR Telehealth[tiab] OR Telemedicine[tiab] OR Videoconferencing[tiab] OR ((Telephone[tiab]) AND (Consultation[tiab] OR face-to-face[tiab] OR in-person[tiab])) OR telephone-delivered[tiab]) AND ("Primary Health Care"[Mesh] OR "General Practice"[Mesh] OR rehabilitation[sh] OR "Outpatients"[Mesh] OR "Speech Therapy"[Mesh] OR Outpatient[tiab] OR "Primary health"[tiab] OR "Primary care"[tiab] OR "General practice"[tiab] OR "General practices"[tiab] OR "General practitioners"[tiab] OR "General practitioner"[tiab] OR "Family practice"[tiab] OR Physician[tiab] OR Physicians[tiab] OR Clinician[tiab] OR Clinicians[tiab] OR Therapist[tiab] OR Nurse[tiab] OR Nurses[tiab] OR Physiotherapist[tiab] OR Rehabilitation[tiab] OR Diabetes[tiab] OR Diabetic[tiab] OR Asthma[tiab] OR Depression[tiab] OR "Ïrritable bowel"[tiab] OR IBS[tiab] OR PTSD[tiab] OR "Chronic fatigue"[tiab]) AND ((Face to face[tiab]) OR "Usual care"[tiab] OR Visits[tiab] OR Visit[tiab] OR In-person[tiab] OR "In person"[tiab] OR ((Clinic[tiab] OR Centre[tiab] OR Home[tiab]) AND (Based[tiab] OR Contact[tiab])) OR Conventional[tiab] OR "Practice-based"[tiab] OR "Practice based"[tiab] OR Traditional[tiab] OR "Standard care"[tiab] OR Homecare[tiab] OR ((Routine[tiab] OR Home[tiab]) AND (Care[tiab]))) AND ("Delivery of Health Care"[Mesh] OR Delivery[tiab] OR Delivered[tiab] OR Via[tiab] OR Received[tiab]) AND ("Treatment Outcome"[Mesh] OR "Patient Satisfaction"[Mesh] OR Therapy[sh] OR Diagnosis[sh] OR "Clinical outcomes"[tiab] OR Treatment[tiab] OR Diagnostic[tiab] OR Efficacy[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT  (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh])) NOT ("Case Reports"[pt] OR Editorial[pt] OR Letter[pt] OR Meta-Analysis[pt] OR "Observational Study"[pt] OR "Systematic Review"[pt] OR "Case Report"[ti] OR "Case series"[ti] OR Meta-Analysis[ti] OR "Meta Analysis"[ti] OR "Systematic Review"[ti] OR "Systematic Literature Review"[ti] OR "Qualitative study"[ti] OR Protocol[ti])
+
+Pids:
+	16935946
+	27869451
+	25457928
+	24252663

@@ -1,0 +1,27 @@
+Topic: 51
+
+Title: Comparing the quantity and quality of randomised placebo-controlled trials of antibiotics for acute respiratory, urinary, and skin and soft tissue infections: a scoping review
+
+Query: 
+("Anti-Bacterial Agents"[Mesh] OR "Macrolides"[Mesh] OR "beta-Lactams"[Mesh] OR Antibacterial[tiab] OR Antibacterials[tiab] OR Antibiotics[tiab] OR Antibiotic[tiab] OR Macrolides[tiab] OR Macrolide[tiab] OR beta-Lactams[tiab] OR Antimicrobial[tiab] OR Antimicrobials[tiab] OR Penicillin[tiab] OR Methicillin[tiab] OR ampicillin[tiab] OR azithromycin[tiab] OR Cephalexin[tiab]) AND ("Placebos"[Mesh] OR Placebos[tiab] OR Placebo[tiab] OR Placeboes[tiab] OR "Sham treatment"[tiab]) AND (Erysipelas[Mesh] OR erysipelas[tiab] OR "Skin Diseases, Infectious"[Mesh] OR Cellulitis[Mesh] OR cellulitis[tiab] OR impetigo[tiab] OR Impetigo[Mesh] OR "Soft Tissue Infections"[Mesh] OR "Ignis sacer"[tiab] OR "holy fire"[tiab] OR "st anthony's fire"[tiab] OR "Soft Tissue Infections"[tiab] OR "Soft Tissue Infection"[tiab] OR OR "Skin infections"[tiab] OR "Skin infection"[tiab] OR ((*Staphylococcus[Mesh] OR staphylococc*[tiab] OR Streptococcus[Mesh] OR streptococc*[tiab]) AND Skin[Mesh])))
+
+Pids:
+	21923567
+	6369096
+	2112167
+	3129741
+	28657870
+	19409657
+	9747366
+	26938214
+	25340832
+	2041927
+	18341664
+	11809642
+	128475
+	3880635
+	17846141
+	29898217
+	20346539
+	26962903
+	23426412

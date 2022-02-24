@@ -1,0 +1,23 @@
+Topic: 78
+
+Title: Is antimicrobial administration to food animals a direct threat to human health? A rapid systematic review
+
+Query: 
+("Drug Resistance, Microbial"[Mesh] OR "Drug resistance"[tiab] OR "Drug resistant"[tiab] OR "multidrug-resistant"[tiab] OR "multidrug resistant"[tiab] OR "Microbial resistant"[tiab] OR "Microbial resistance"[tiab] OR "Antibiotic resistance"[tiab] OR "Antibiotic resistant"[tiab] OR "Antibacterial resistance"[tiab] OR "Antibacterial resistant"[tiab] OR "Antimicrobial resistance"[tiab] OR "Antimicrobial resistant"[tiab]) AND ("Anti-Bacterial Agents"[Mesh] OR "Macrolides"[Mesh] OR "beta-Lactams"[Mesh] OR Antibacterial[tiab] OR Antibacterials[tiab] OR Antibiotics[tiab] OR Antibiotic[tiab] OR Macrolides[tiab] OR Macrolide[tiab] OR beta-Lactams[tiab] OR Antimicrobial[tiab] OR Antimicrobials[tiab] OR Penicillin[tiab] OR Methicillin[tiab] OR Ampicillin[tiab] OR Azithromycin[tiab] OR Cephalexin[tiab] OR Apramycin[tiab] OR Streptomycin[tiab]) AND ("Cattle"[Mesh] OR "Swine"[Mesh] OR "Poultry"[Mesh] OR "Farm animals"[tiab] OR "Food animals"[tiab] OR "Food systems" OR Cattle[tiab] OR Beef[tiab] OR Swine[tiab] OR Pig[tiab] OR Pigs[tiab] OR Poultry[tiab] OR Chickens[tiab]) AND (Review[ti] OR "Systematic review"[tiab] OR "Meta-analysis"[tiab] OR Report[ti] OR Randomised[tiab] OR Randomized[tiab] OR Randomise[tiab] OR Randomize[tiab] OR Randomly[tiab] OR Controlled[tiab] OR "Control group"[tiab] OR Epidemiology[sh] OR "Morbidity"[Mesh] OR Comparison[tiab] OR Compared[tiab] OR Compare[tiab] OR Examined[tiab] OR Observations[tiab] OR Observed[tiab] OR Longitudinal[tiab] OR Experimental[tiab] OR Experiments[tiab] OR Investigate[tiab] OR (Before[tiab] AND After[tiab])) AND ("Microbial Sensitivity Tests"[Mesh] OR Isolates[tiab] OR Isolated[tiab] OR Samples[tiab] OR Strains[tiab] OR Strain[tiab] OR Carriage[tiab] OR Phylogenetic OR Metagenomic OR PCR OR Selects) AND ("Zoonoses"[Mesh] OR "Animal Diseases"[Mesh] OR Zoonoses[tiab] OR Zoonotic[tiab] OR Transmitted[tiab] OR Transmission[tiab] OR Susceptibility[tiab] OR Susceptible[tiab] OR Selective[tiab] OR Selection[tiab]) NOT "Humans"[Mesh]
+
+Pids:
+	11408222
+	17105560
+	11021580
+	25989456
+	20031042
+	26739225
+	10332721
+	950974
+	22307632
+	10347077
+	2691268
+	22437543
+	1108775
+	11389108
+	19379542 

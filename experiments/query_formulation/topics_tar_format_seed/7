@@ -1,0 +1,42 @@
+Topic: 7
+
+Title: Physical activity in pregnancy prevents gestational diabetes: A meta-analysis
+
+Query: 
+("Life Style"[Mesh] OR "Diet"[Mesh] OR "Exercise"[Mesh] OR "Patient Education as Topic"[Mesh] OR "Life Style"[tiab] OR Lifestyle[tiab] OR Exercise[tiab] OR Counseling[tiab] OR Dietary[tiab] OR Dieting[tiab] OR Educational[tiab] OR "Patient education"[tiab] OR "Eating habits"[tiab] OR "Eating patterns"[tiab] OR "Weight measurement"[tiab]) AND ("Pregnancy Outcome"[Mesh] OR "Pregnancy Complications"[Mesh] OR "Birth weight"[Mesh] OR "Pregnancy Outcome"[tiab] OR "Pregnancy Outcomes"[tiab] OR "Pregnancy Complications"[tiab] OR "Pregnancy Complication"[tiab] OR ((Pregnancy[Mesh] OR Pregnancy[tiab] OR Gestational[tiab]) AND ("Weight Gain"[Mesh] OR "Weight gain"[tiab] OR "Glucose metabolism"[tiab]))) AND ("Treatment Outcome"[Mesh] OR Effect[tiab] OR Effects[tiab] OR Impact[tiab] OR Modify[tiab] OR Decrease[tiab] OR Decreases[tiab] OR Declined[tiab] OR Declines[tiab] OR Reduce[tiab] OR Reducing[tiab] OR Reduces[tiab] OR Reduction[tiab] OR Change[tiab] OR Changes[tiab] OR Differences[tiab] OR Difference[tiab] OR Different[tiab]) AND ("Risk Reduction Behavior"[Mesh] OR "Primary Prevention"[Mesh] OR "prevention and control"[sh] OR Prevent[tiab] OR Prevents[tiab] OR Preventing[tiab] OR Unfavorable[tiab] OR Adverse[tiab] OR Retention[tiab] OR Activity[tiab] OR Capacity[tiab] OR Negative[tiab] OR Restrict[tiab] OR Restricted[tiab] OR Adherence[tiab] OR Assess[tiab] OR Assessed[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh])) NOT ("Case Reports"[pt] OR Editorial[pt] OR Letter[pt] OR Meta-Analysis[pt] OR "Observational Study"[pt] OR "Systematic Review"[pt] OR "Case Report"[ti] OR "Case series"[ti] OR Meta-Analysis[ti] OR "Meta Analysis"[ti] OR "Systematic Review"[ti]) AND ("Life Style"[ti] OR Lifestyle[ti] OR Exercise[ti] OR Counseling[ti] OR Diet[ti] OR Dietary[ti] OR Dieting[ti] OR Educational[ti] OR "Patient education"[ti] OR "Eating habits"[ti] OR "Eating patterns"[ti] OR "Weight measurement"[ti] OR Pregnant[ti] OR "Pregnancy Outcome"[ti] OR "Pregnancy Outcomes"[ti] OR "Pregnancy Complications"[ti] OR "Pregnancy Complication"[ti] OR Pregnancy[ti] OR Gestational[ti] OR "Weight gain"[ti] OR "Glucose metabolism"[ti])
+
+Pids:
+	19155899
+	21948120
+	19636320
+	23365418
+	22715981
+	23032404
+	20357374
+	23784892
+	25306925
+	22017967
+	25248797
+	19835535
+	25697965
+	24002348
+	22093485
+	21610860
+	22616913
+	24175912
+	21310836
+	12439652
+	23855708
+	22843114
+	21466516
+	24060449
+	24290112
+	16055571
+	22183208
+	22804796
+	19585925
+	21972411
+	24834792
+	24989831
+	22936795
+	18227847

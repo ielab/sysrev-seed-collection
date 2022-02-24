@@ -1,0 +1,17 @@
+Topic: 2
+
+Title: Effect of different visual presentations on the comprehension of prognostic information: a systematic review
+
+Query: 
+("Prognosis"[Mesh] OR "Natural history"[tiab] OR "Natural course"[tiab] OR "Clinical course"[tiab] OR "Watchful waiting"[tiab] OR ((Symptom[tiab] OR Symptoms[tiab]) AND (Duration[tiab])) OR "Wait and see"[tiab] OR "Active monitoring"[tiab] OR Prognosis[tiab]) AND (Communication[tiab] OR Communicate[tiab] OR Framing[tiab] OR Discuss[tiab] OR "Shared decision making"[tiab] OR Presented[tiab] OR Perceptions[tiab] OR Perceive[tiab] OR Perceived[tiab]) AND ("Decision Support Techniques"[Mesh] OR "Decision Making"[Mesh] OR "Decision Making, Shared"[Mesh] OR "Decision aid"[tiab] OR "Decision tool"[tiab] OR Decision[tiab] OR Decisions[tiab]) AND (Graph[tiab] OR Graphs[tiab] OR Graphic[tiab] OR Graphics[tiab] OR Graphical[tiab] OR Chart[tiab])
+
+Pids:
+	11833668
+	32269779
+	25277673
+	27981688
+	26044208
+	30799691
+	19012353
+	17137743
+	20375419

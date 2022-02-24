@@ -1,0 +1,16 @@
+Topic: 40
+
+Title: Virtual and Augmented Reality Enhancements to Medical and Science Student Physiology and Anatomy Test Performance: A Systematic Review and Meta-Analysis
+
+Query: 
+("Education, Professional"[Mesh] OR ((Medical[tiab] OR Biomedical[tiab] OR Health[tiab] OR Anatomy[tiab] OR Anatomical[tiab] OR Neuroanatomy[tiab] OR Pathology[tiab] OR Genetics[tiab] OR pharmacology[tiab] OR bacteriology[tiab] OR Histology[tiab] OR Biochemistry[tiab] OR microbiology[tiab] OR Neurology[tiab] OR "Basic Science"[tiab] OR "Basic Sciences"[tiab] OR Physiology[tiab] OR Physiological[tiab]) AND (Education[tiab] OR Educational[tiab] OR Curriculum[tiab] OR Training[tiab] OR Learning[tiab]))) AND ("Students, Medical"[Mesh] OR Students[tiab] OR Student[tiab]) AND ("Virtual Reality"[Mesh] OR "Virtual Reality"[tiab] OR "Virtual Realities"[tiab] OR "Augmented reality"[tiab] OR "Spatial Computing"[tiab] OR "Mixed Reality"[tiab] OR AR[tiab] OR VR[tiab] OR MR[tiab]) AND (Assessing[tiab] OR Assessments[tiab] OR Assess[tiab] OR Assessed[tiab] OR ((Knowledge[tiab]) AND (Evaluate[tiab] OR Evaluation[tiab] OR acquire[tiab] OR acquirement[tiab] OR Retention[tiab]))) NOT (Review[pt] OR "Systematic review"[pt] OR "Systematic review"[ti])
+
+Pids:
+	23963306
+	30648818
+	29510979
+	26950521
+	30295333
+	28419750
+	28912113
+	28719062

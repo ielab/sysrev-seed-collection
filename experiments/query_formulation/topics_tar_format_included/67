@@ -1,0 +1,19 @@
+Topic: 67
+
+Title: Physical activity in pregnancy prevents gestational diabetes: A meta-analysis
+
+Query: 
+((("Diabetes, Gestational"[Mesh] OR Diabetes[tiab]) AND ("Pregnancy"[Mesh] OR Pregnancy[tiab] OR Pregnant[tiab] OR Pregnancies[tiab] OR Gestation[tiab] OR Gestational[tiab])) OR (("Pregnancy"[Mesh] OR Pregnancy[tiab] OR Pregnant[tiab] OR Pregnancies[tiab] OR Gestation[tiab] OR Gestational[tiab]) AND ("Obesity"[Mesh] OR Obesity[tiab] OR Obese[tiab]))) AND ("Life Style"[Mesh] OR "Insulin"[Mesh] OR Metformin[Mesh] OR "Life Style Intervention"[tiab] OR "Lifestyle Intervention"[tiab] OR "Exercise intervention"[tiab] OR Metformin[tiab] OR "Insulin sensitising"[tiab] OR "Lifestyle counseling"[tiab] OR "Glucose tolerance"[tiab] OR "Antenatal care "[tiab] OR "Dietary management"[tiab]) AND ("Treatment Outcome"[Mesh] OR "Pregnancy Outcome"[Mesh] OR "Pregnancy Complications"[Mesh] OR "Morbidity"[Mesh] OR Prevention[tiab] OR Prevent[tiab] OR Preventing[tiab] OR "Insulin resistance"[tiab] OR Incidence[tiab] OR Prevalence[tiab] OR ((Improved[tiab] OR Adverse[tiab] OR Obstetric[tiab] OR Pregnancy[tiab]) AND (Outcome[tiab] OR Outcomes[tiab]))) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh]))
+
+Pids:
+	27607876
+	25932848
+	25248797
+	20357374
+	27459375
+	26542419
+	26375471
+	28161306
+	24060449
+	22616913
+	24002348

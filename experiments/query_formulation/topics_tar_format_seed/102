@@ -1,0 +1,21 @@
+Topic: 102
+
+Title: Effect of Immediate Administration of Antibiotics in Patients With Sepsis in Tertiary Care: A Systematic Review and Meta-analysis
+
+Query: 
+("Anti-Bacterial Agents"[Mesh] OR Antibacterial[tiab] OR Antibacterials[tiab] OR Antibiotics[tiab] OR Antibiotic[tiab] OR Antimicrobial[tiab] OR Antimicrobials[tiab]) AND ("Sepsis"[Mesh] OR Sepsis[tiab] OR "Septic shock"[tiab] OR "Systemic inflammatory response syndrome"[tiab] OR Septicemia[tiab] OR Septicemias[tiab]) AND ("Mortality"[Mesh] OR "Survival Rate"[Mesh] OR "Survival Analysis"[Mesh] OR Mortality[tiab] OR Death[tiab] OR Deaths[tiab] OR Survival[tiab]) AND ("Emergency Service, Hospital"[Mesh] OR "Emergency service"[tiab] OR "Emergency services"[tiab] OR "Emergency department"[tiab] OR "Emergency departments"[tiab] OR "Emergency Units"[tiab] OR "Emergency Unit"[tiab] OR ED[tiab] OR "Intensive Care Units"[Mesh] OR "Intensive Care Units"[tiab] OR "Intensive Care Unit"[tiab] OR ICU[tiab] OR ICUs[tiab]) AND ("Time-to-Treatment"[Mesh] OR Timing[tiab] OR "Time to"[tiab] OR Hour[tiab] OR Hours[tiab]) AND (Administration[tiab] OR Appropriate[tiab] OR Appropriateness[tiab] OR Compliance[tiab]) AND ("randomized controlled trial"[pt] OR "controlled clinical trial"[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR randomly[tiab] OR trial[tiab] OR groups[tiab] OR "Epidemiologic Studies"[Mesh] OR "case-control studies"[Mesh] OR "Cohort Studies"[Mesh] OR "case control"[tiab] OR Cohort[tiab] OR "Follow up"[tiab] OR Observational[tiab] OR longitudinal[tiab] OR Prospective[tiab] OR retrospective[tiab] OR "cross sectional"[tiab] OR "Cross-Sectional Studies"[Mesh] OR Investigated[tiab] OR Analysis[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh]))
+
+Pids:
+	24589043
+	25612516
+	19696442
+	24717459
+	20048677
+	20678676
+	23945889
+	16625125
+	24970941
+	21572327
+	25651372
+	24139996
+	25375775

@@ -1,0 +1,17 @@
+Topic: 4
+
+Title: Estimating the extent of asymptomatic COVID-19 and its potential for community transmission: systematic review and meta-analysis
+
+Query: 
+(("COVID-19"[Supplementary Concept] OR "COVID-19"[tiab] OR COVID19[tiab] OR "COVID 19"[tiab] OR "SARS-CoV-2"[tiab] OR "2019-nCoV"[tiab] OR "Novel coronavirus"[tiab] OR "Coronavirus 2019"[tiab] OR "Coronavirus 19"[tiab] OR "COVID 2019"[tiab] OR "2019 ncov"[tiab] OR "Wuhan coronavirus"[tiab])  AND ("Asymptomatic Diseases"[Mesh] OR Asymptomatic[tiab] OR Presymptomatic[tiab] OR "Pre-Symptomatic"[tiab] OR "No symptoms"[tiab] OR "No symptom"[tiab] OR "Silent transmission"[tiab] OR "Silent carrier"[tiab] OR "Silent carriers"[tiab]) AND (Letter[pt] OR "Epidemiologic Studies"[Mesh] OR "Case-control studies"[Mesh] OR "Cohort Studies"[Mesh] OR "Case control"[tiab] OR Longitudinal[tiab] OR Prospective[tiab] OR Retrospective[tiab] OR "Cross sectional"[tiab] OR "Cross-Sectional Studies"[Mesh] OR Investigated[tiab] OR Analysis[tiab] OR Data[tiab] OR Cases[tiab] OR Ratio[tiab] OR "statistics and numerical data"[sh] OR "epidemiology"[sh]) ) OR ( ("COVID-19"[ti] OR COVID19[ti] OR "COVID 19"[ti] OR "SARS-CoV-2"[ti] OR "2019-nCoV"[ti] OR "Novel coronavirus"[ti] OR "Coronavirus 2019"[ti] OR "Coronavirus 19"[ti] OR "COVID 2019"[ti] OR "2019 ncov"[ti] OR "Wuhan coronavirus"[ti]) AND (Asymptomatic[ti] OR Presymptomatic[ti] OR "Pre-Symptomatic"[ti]))
+
+Pids:
+	32083643
+	32191173
+	32146694
+	32035431
+	32183930
+	32179137
+	32118389
+	32234453
+	32074444

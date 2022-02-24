@@ -1,0 +1,23 @@
+Topic: 64
+
+Title: Metformin in pregnancy to avert gestational diabetes in women at high risk: Meta-analysis of randomized controlled trials
+
+Query: 
+(("Diabetes, Gestational"[Mesh] OR "Gestational diabetes"[tiab] OR "Pregnancy-Induced Diabetes"[tiab] OR "Pregnancy Induced Diabetes"[tiab]) OR ((Overweight[tiab] OR Obese[tiab]) AND (Pregnant[tiab] OR Pregnancy[tiab])) ) AND ("Metformin"[Mesh] OR Metformin[tiab] OR Dimethylbiguanidine[tiab] OR Dimethylguanylguanidine[tiab] OR Glucophage[tiab]) AND ("Pregnancy Complications"[Mesh] OR Prevention[tiab] OR Preventing[tiab] OR Complication[tiab] OR Complications[tiab] OR Risk[tiab] OR "androgen excess"[tiab] OR hyperandrogenism[tiab] OR "polycystic ovary syndrome"[tiab] OR "polycystic ovarian syndrome"[tiab] OR "polycystic ovarian disease"[tiab] OR "polycystic ovaries"[tiab] OR PCOS[tiab] OR hirsutism[tiab] OR acne[tiab] OR alopecia[tiab] OR "menstrual dysfunction"[tiab] OR anovulation[tiab] OR infertility[tiab] OR subfertility[tiab] OR "ovulation induction"[tiab]) AND ("randomized controlled trial"[pt] OR "controlled clinical trial"[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR randomly[tiab] OR trial[tiab] OR groups[tiab] OR "Epidemiologic Studies"[Mesh] OR "case-control studies"[Mesh] OR "Cohort Studies"[Mesh] OR "case control"[tiab] OR Cohort[tiab] OR "Follow up"[tiab] OR Observational[tiab] OR Longitudinal[tiab] OR Prospective[tiab] OR retrospective[tiab] OR "cross sectional"[tiab] OR "Cross-Sectional Studies"[Mesh] OR Investigated[tiab] OR Analysis[tiab] OR Statistics[tiab] OR Data[tiab] OR "statistics and numerical data"[sh] OR "epidemiology"[sh])
+
+Pids:
+	25899185
+	19708174
+	29422358
+	26165398
+	30528218
+	18651320
+	17678910
+	25243003
+	21247239
+	30792154
+	20029224
+	29702716
+	26840133
+	29094444
+	20926533

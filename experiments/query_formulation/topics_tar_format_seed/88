@@ -1,0 +1,9 @@
+Topic: 88
+
+Title: Towards a better understanding of self-management interventions in type 2 diabetes: A meta-regression analysis
+
+Query: 
+("Patient Education as Topic"[Mesh] OR "Self Care"[Mesh] OR "Behavior Therapy"[Mesh] OR "Group Processes"[Mesh] OR "Psychotherapy, Group"[Mesh] OR "Self-Help Groups"[Mesh] OR Patient education[tiab] OR Self care[tiab] OR Self management[tiab] OR Behavior therapy[tiab] OR Behaviour therapy[tiab] OR Group process[tiab] OR Group processes[tiab] OR Group psychotherapy[tiab] OR ((Education[tiab] OR Educational[tiab] OR psychoeducational[tiab] OR Training[tiab] OR Teaching[tiab] OR Lifestyle[tiab]) AND (Programme[tiab] OR Programmes[tiab] OR Program[tiab] OR Programs[tiab]))) AND ("Diabetes Mellitus, Type 2"[Mesh] OR MODY[tiab] OR NIDDM[tiab] OR T2DM[tiab] OR ((non insulin[tiab] OR noninsulin[tiab] OR "Type 2"[tiab] OR "Type II"[tiab] OR Ketosis-Resistant[tiab] OR Ketosis resistant[tiab] OR Maturity-Onset[tiab] OR Maturity onset[tiab] OR Mature-onset[tiab] OR Mature onset[tiab] OR Adult-onset[tiab] OR Adult onset[tiab] OR Slow-onset[tiab] OR Slow onset[tiab] OR Stable[tiab]) AND Diabetes)) AND (Group[tiab] OR Groups[tiab] OR Participants[tiab]) NOT ("Diabetes Insipidus"[Mesh] OR Diabetes Insipidus[tiab]) AND (randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[MeSH Terms] OR randomly[tiab] OR groups[tiab] OR Controlled[tiab] OR Control[tiab] OR Trial[tiab] OR Trials[tiab] OR Blind[tiab] OR Blinded[tiab] OR Volunteer[tiab] OR Volunteers[tiab]) NOT (animals[Mesh] NOT humans[Mesh])
+
+Pids:
+	15846663

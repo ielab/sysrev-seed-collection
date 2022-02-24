@@ -1,0 +1,14 @@
+Topic: 12
+
+Title: Use of methenamine hippurate to prevent urinary tract infections in community adult women: a systematic review and meta-analysis
+
+Query: 
+("Urinary Tract Infections"[Mesh] OR "Cystitis"[Mesh] OR "Bacteriuria"[Mesh] OR "Urinary Tract Infections"[tiab] OR "Urinary Tract Infection"[tiab] OR UTIs[tiab] OR UTI[tiab] OR Cystitis[tiab] OR Bacteriuria[tiab]) AND ("Methenamine hippurate"[Supplementary Concept] OR "Methenamine"[Mesh] OR "Hippurates"[Mesh] OR Hexamine[tiab] OR Hippurate[tiab] OR Hippurates[tiab] OR Urex[tiab] OR Hiprex[tiab] OR Hip-Rex[tiab] OR Urotractan[tiab] OR Hexamethylenetetramine[tiab] OR Methenamine[tiab] OR Urotropin[tiab] OR Aminoform[tiab] OR "Hippuric acid"[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR "therapeutic use"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh]))
+
+Pids:
+	7019458
+	6227756
+	1099490
+	3535165
+	6377577
+	34115162

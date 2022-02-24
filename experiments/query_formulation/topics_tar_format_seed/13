@@ -1,0 +1,30 @@
+Topic: 13
+
+Title: A catalogue of tools and variables from crisis and routine care to support decision-making about allocation of intensive care beds and ventilator treatment during pandemics: Scoping review
+
+Query: 
+("Resource Allocation"[Mesh] OR Resource[tiab] OR Resources[tiab] OR Allocation[tiab] OR Demand[tiab] OR "Prognostic certainty"[tiab] OR "External validation"[tiab] OR Prognosticative[tiab] OR Prognosticating[tiab] OR "Validation cohort"[tiab]) AND ("Decision rule"[tiab] OR "Decision Support"[tiab] OR Prediction[tiab] OR Predictions[tiab] OR Predictor[tiab] OR Predicting[tiab] OR Predictive[tiab] OR "Scoring systems"[tiab] OR "Scoring system"[tiab] OR "Decision making"[tiab] OR "Preparedness strategies"[tiab] OR "Preparedness strategy"[tiab] OR "Prioritization Criteria"[tiab] OR "Prioritizing access"[tiab] OR "Consensus Statement"[tiab] OR "Categorization decisions"[tiab] OR "Allocation decisions"[tiab] OR "Clinical guidelines"[tiab]) AND ("Triage"[Mesh] OR "Patient Selection"[Mesh] OR Triage[tiab] OR Triaging[tiab] OR Admission[tiab] OR Discharge[tiab] OR "Incident management"[tiab] OR "Treatment priority"[tiab] OR "Patient volumes"[tiab] OR ((Managing[tiab]) AND (Cohort[tiab])) OR (Calculators[tiab] AND Patients[tiab])) AND ("Emergency Medical Services"[Mesh] OR "Critical Care"[Mesh] OR "Intensive Care Units"[Mesh] OR "Intensive care"[tiab] OR "Critical care"[tiab] OR ICU[tiab] OR PICU[tiab] OR "Critically ill"[tiab] OR "Life saving"[tiab] OR Life-saving[tiab] OR Life-sustaining[tiab] OR "Life sustaining"[tiab] OR "Life support"[tiab] OR "Short-term death"[tiab] OR "Short term death"[tiab] OR "Death prediction"[tiab] OR Hospital[tiab] OR Hospitals[tiab] OR "Emergency department"[tiab] OR "Emergency departments"[tiab]) AND ("Pandemics"[Mesh] OR Disasters[Mesh] OR "Hospital Mortality"[Mesh] OR "COVID-19" OR Pandemic[tiab] OR Pandemics[tiab] OR Disaster[tiab] OR Disasters[tiab] OR "SARS CoV 2"[tiab] OR "COVID 19"[tiab] OR "COVID-19"[tiab] OR "Mass casualty"[tiab] OR "Severe sepsis"[tiab] OR "Septic shock"[tiab] OR "Short-term mortality"[tiab])
+
+Pids:
+	21269458
+	30574216
+	17116904
+	25144591
+	25144661
+	20122291
+	27071069
+	19825055
+	17601354
+	25079506
+	17046859
+	22700021
+	18388654
+	32238612
+	32259419
+	25144186
+	26121100
+	32294810
+	19153413
+	25191808
+	22020234
+	23082451

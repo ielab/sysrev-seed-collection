@@ -1,0 +1,15 @@
+Topic: 103
+
+Title: Increased fluid intake to prevent urinary tract infections: systematic review and meta-analysis
+
+Query: 
+(("Urinary Tract Infections"[Mesh] OR "Urinary Tract Infections"[tiab] OR "Urinary Tract Infection"[tiab] OR UTIs[tiab] OR UTI[tiab] OR Cystitis[tiab]) AND ("Preventive Health Services"[Mesh] OR Prophylaxis[tiab] OR Prevention[tiab] OR Prevent[tiab] OR Preventing[tiab] OR Preventive[tiab] OR "prevention and control"[sh]) AND ("therapeutic use"[sh] OR Drinking[Mesh] OR "Drinking Behavior"[Mesh] OR Intervention[tiab] OR Interventions[tiab] OR Therapeutic[tiab] OR "Fluid intake"[tiab] OR "Water Intake"[tiab] OR Hydration[tiab] OR Education[tiab] OR Educational[tiab] OR "behavioral change"[tiab] OR "behavioral changes"[tiab] OR "behavioural change"[tiab] OR "behavioural changes"[tiab]) AND (Risk[tiab] OR Risks[tiab] OR Rate[tiab] OR Rates[tiab] OR Recurrence[tiab] OR Recurrent[tiab] OR Reducing[tiab] OR Reduction[tiab] OR Reduce[tiab] OR Hinder[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] not (Animals[Mesh] and Humans[Mesh])) NOT ("Catheter-Related Infections"[Mesh] OR "Catheters"[Mesh] OR Catheter[ti] OR Catheters[ti] OR "Systematic review"[ti])) AND (("Urinary Tract Infections"[ti] OR "Urinary Tract Infection"[ti] OR UTIs[ti] OR UTI[ti] OR Cystitis[ti]) OR (Prophylaxis[ti] OR Prevention[ti] OR Prevent[ti] OR Preventing[ti] OR Preventive[ti]) OR (Intervention[ti] OR Interventions[ti] OR Therapeutic[ti] OR "Fluid intake"[ti] OR "Water Intake"[ti] OR Hydration[ti] OR Education[ti] OR Educational[ti] OR "behavioral change"[ti] OR "behavioral changes"[ti] OR "behavioural change"[ti] OR "behavioural changes"[ti]) OR (Risk[ti] OR Risks[ti] OR Rate[ti] OR Rates[ti] OR Recurrence[ti] OR Recurrent[ti] OR Reducing[ti] OR Reduction[ti] OR Reduce[ti] OR Hinder[ti]))
+
+Pids:
+	9830186
+	27424995
+	7648069
+	30285042
+	23633128
+	22960586
+	3984360

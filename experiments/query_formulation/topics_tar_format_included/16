@@ -1,0 +1,40 @@
+Topic: 16
+
+Title: The impact of antibiotics on clinical response over time in uncomplicated cellulitis: a systematic review and meta-analysis
+
+Query: 
+("Anti-Bacterial Agents"[Mesh] OR "Macrolides"[Mesh] OR "beta-Lactams"[Mesh] OR "Fluoroquinolones"[Mesh] OR "Sulfonamides"[Mesh] OR "Tetracyclines"[Mesh] OR "Aminoglycosides"[Mesh] OR Antimicrobials[tiab] OR Antibacterial[tiab] OR Antibacterials[tiab] OR Antibiotics[tiab] OR Antibiotic[tiab] OR Macrolides[tiab] OR Macrolide[tiab] OR beta-Lactams[tiab] OR Fluoroquinolones[tiab] OR Sulfonamides[tiab] OR Tetracyclines[tiab] OR Aminoglycosides[tiab] OR Antimicrobial[tiab] OR Antimicrobials[tiab] OR Penicillin[tiab] OR Penicillins[tiab] OR Methicillin[tiab] OR ampicillin[tiab] OR azithromycin[tiab] OR Cephalexin[tiab] OR Maytansine[tiab] OR Mepartricin[tiab] OR Miocamycin[tiab] OR Natamycin[tiab] OR Nystatin[tiab] OR Oleandomycin[tiab] OR Troleandomycin[tiab] OR Oligomycins[tiab] OR Rutamycin[tiab] OR Sirolimus[tiab] OR Everolimus[tiab] OR Tacrolimus[tiab] OR Tylosin[tiab] OR Amphotericin[tiab] OR Antimycin[tiab] OR Brefeldin [tiab] OR Bryostatins [tiab] OR Candicidin[tiab] OR Epothilones[tiab] OR Erythromycin[tiab] OR Azithromycin[tiab] OR Clarithromycin[tiab] OR Ketolides[tiab] OR Roxithromycin[tiab] OR Filipin[tiab] OR Ivermectin[tiab] OR Josamycin[tiab] OR Leucomycins[tiab] OR Kitasamycin[tiab] OR Spiramycin[tiab] OR Carbapenems[tiab] OR Thienamycins[tiab] OR Cephalosporins[tiab] OR Cefamandole[tiab] OR Cefazolin[tiab] OR Cefonicid[tiab] OR Cefsulodin[tiab] OR Cephacetrile[tiab] OR Cephalexin[tiab] OR Cephaloridine[tiab] OR Cephamycins[tiab] OR Clavulanic[tiab] OR Monobactams[tiab] OR Aztreonam[tiab] OR Moxalactam[tiab] OR Amdinocillin[tiab] OR Cyclacillin[tiab] OR Methicillin[tiab] OR Nafcillin[tiab] OR Oxacillin[tiab] OR Penicillanic[tiab] OR Sulbactam[tiab] OR Ticarcillin[tiab] OR Amoxicillin[tiab] OR Ciprofloxacin[tiab] OR Fleroxacin[tiab] OR Enoxacin[tiab] OR Norfloxacin[tiab] OR Ofloxacin[tiab] OR Levofloxacin[tiab] OR Pefloxacin[tiab]) AND (Erysipelas[Mesh] OR Erysipelas[tiab] OR "Skin Diseases, Infectious"[Mesh] OR Cellulitis[Mesh] OR Cellulitis[tiab] OR Impetigo[tiab] OR Impetigo[Mesh] OR "Soft Tissue Infections"[Mesh] OR "Holy fire"[tiab] OR "st anthony's fire"[tiab] OR "Soft Tissue Infections"[tiab] OR "Soft Tissue Infection"[tiab] OR "Skin infections"[tiab] OR "Skin infection"[tiab] OR ((Staphylococcus[Mesh] OR staphylococcus[tiab] OR Streptococcus[Mesh] OR streptococcus[tiab]) AND (Skin[Mesh] OR Skin[tiab]))) AND ("Administration, Oral"[Mesh] OR Oral[tiab] OR Orally[tiab]) AND ("Infusions, Parenteral"[Mesh] OR "Injections, Intravenous"[Mesh] OR Intravenous[tiab] OR Intravenously[tiab] OR IV[tiab] OR parenteral[tiab] OR parenterally[tiab]) AND (Randomized controlled trial[pt] OR controlled clinical trial[pt] OR randomized[tiab] OR randomised[tiab] OR placebo[tiab] OR "drug therapy"[sh] OR randomly[tiab] OR trial[tiab] OR groups[tiab]) NOT (Animals[Mesh] NOT (Animals[Mesh] AND Humans[Mesh]))
+
+Pids:
+	12182257
+	15302637
+	29281036
+	26679243
+	1512105
+	28480266
+	31474458
+	23457080
+	29029278
+	9589816
+	11451697
+	32747361
+	31660410
+	30853250
+	28274772
+	15843702
+	1390144
+	31618678
+	15604157
+	9360253
+	28314743
+	24897082
+	30988146
+	8818853
+	24909499
+	31367742
+	19222623
+	23403680
+	8396081
+	25336165
+	12386036
+	28535235

@@ -9,3 +9,11 @@ For collection analysis:
 >- **collection_analysis:** code running for original collection analysis and graph making.
 
 ***
+
+## Code to run
+> ### Before running seed_driven document ranking or snowballing document ranking experiment, you need to run the following code to get title and abstract of all pubmed article title and abstract:
+> `mkdir collection`<br>
+> `python3 gather_all_pids.py`<br>
+> `python3 collection_gathering.py`<br>
+> `python3 collection_processing.py` <br>
+> #### In this way you will create a jsonl file inside folder **collection** that's storing the processed title and abstract of all pubmed articles appeared in the collection.

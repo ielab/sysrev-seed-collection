@@ -8,7 +8,7 @@ import argparse
 import os
 import json
 from tqdm import tqdm
-
+from os.path import dirname, abspath
 
 # if you vector file is in binary format, change to binary=True
 
@@ -336,7 +336,7 @@ if __name__ == "__main__":
     parser.add_argument("--DATA_DIR", type=str, default="run_search/single")
     parser.add_argument("--METHOD", type=str, required=True)
     parser.add_argument("--format", type=str, default='all')
-
+    collection_base = dirname(dirname(os.path.abspath(__file__))) + '/'
     args = parser.parse_args()
 
     DATA_DIR = args.DATA_DIR
@@ -358,54 +358,54 @@ if __name__ == "__main__":
     print("Start processing " + method)
     type = "new"
     if method=="BM25_BOW":
-        collection_file = os.path.join("collection", "weighted1_bow.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_bow.jsonl")
         collection_dict = get_collection(collection_file)
         bm25_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
     if method=="BM25_BOW_LEE":
-        collection_file = os.path.join("collection", "weighted1_bow_cased_lee.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_bow_cased_lee.jsonl")
         collection_dict = get_collection(collection_file)
         bm25_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
     if method=="BM25_BOC_WORD":
-        collection_file = os.path.join("collection", "weighted1_boc_word.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_boc_word.jsonl")
         collection_dict = get_collection(collection_file)
         bm25_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
 
     if method=="QLM_BOW":
-        collection_file = os.path.join("collection", "weighted1_bow.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_bow.jsonl")
         collection_dict = get_collection(collection_file)
         qlm_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
     if method=="QLM_BOW_LEE":
         type = "original"
-        collection_file = os.path.join("collection", "weighted1_bow_cased_lee.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_bow_cased_lee.jsonl")
         collection_dict = get_collection(collection_file)
         qlm_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
     if method=="QLM_BOC_WORD":
-        collection_file = os.path.join("collection", "weighted1_boc_word.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_boc_word.jsonl")
         collection_dict = get_collection(collection_file)
         qlm_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
 
     if method=="SDR_BOW":
-        collection_file = os.path.join("collection", "weighted1_bow.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_bow.jsonl")
         collection_dict = get_collection(collection_file)
         sdr_full_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
     if method=="SDR_BOC_FULL_WORD":
-        collection_file = os.path.join("collection", "weighted1_boc_word.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_boc_word.jsonl")
         collection_dict = get_collection(collection_file)
         sdr_full_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
     if method=="SDR_BOW_FULL_LEE":
         type = "original"
-        collection_file = os.path.join("collection", "weighted1_bow_cased_lee.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_bow_cased_lee.jsonl")
         collection_dict = get_collection(collection_file)
         sdr_full_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, test_set, format, type)
 
     if method=="AES_BOW":
-        collection_file = os.path.join("collection", "weighted1_bow.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_bow.jsonl")
         collection_dict = get_collection(collection_file)
         model = KeyedVectors.load_word2vec_format('/scratch/itee/uqswan37/Reproduce_SR/wikipedia-pubmed-and-PMC-w2v.bin', binary=True)
         aes_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, model, test_set, format)
 
     if method == "AES_BOW_P":
-        collection_file = os.path.join("collection", "weighted1_bow.jsonl")
+        collection_file = os.path.join(collection_base, "collection", "weighted1_bow.jsonl")
         collection_dict = get_collection(collection_file)
         model = KeyedVectors.load_word2vec_format('/scratch/itee/uqswan37/Reproduce_SR/PubMed-w2v.bin', binary=True)
         aes_rerank_results(run_file, method, eval_file, collection_dict, DATA_DIR, model, test_set, format)

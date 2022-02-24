@@ -34,14 +34,24 @@ The file is seperated into two sections:
 
 ## For folder **experiment**:
 
+Three experiments in the paper are included in this folder, including:
+- **query_formulation:** Automatic query formulation expeirment.
+- **sdr_document_ranking:** SDR-driven document ranking.
+- **sdr_snowballing:** SDR-driven snowballing document ranking.
+
+Instructions on how to run these experiments are inside each experiment folder.
+
 
 ***
 
 For sample data extraction processing, please run:
 
-`python sample_data_processing.py`
+`python3 sample_data_processing.py`
+> This is a sample data extraction work, with an input of topic id, the code will output all the information for this topic.
 
-!Please refer to paper "From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search"
+***
+
+### Please refer to paper "From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search"
 
 
 

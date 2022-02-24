@@ -8,7 +8,7 @@ size = 1000
 import random
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--input_json", type=str, default="data/seed_and_included.jsonl")
+parser.add_argument("--input_json", type=str, default="data/overall_collection.jsonl")
 parser.add_argument("--option", type=str, default="seed-search")
 parser.add_argument("--input_qrel", type=str, default ="data/qrels/search_based/sr_collection.qrels")
 args = parser.parse_args()

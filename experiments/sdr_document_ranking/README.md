@@ -1,11 +1,15 @@
-## For folder **experiment**:
+## Seed-driven document ranking
 
 
 ***
 
-For sample data extraction processing, please run:
+### For reproduce result obtained in paper:
 
-`python sample_data_processing.py`
+Firstly, change format of snowballing documents:
+
+> `python3 snowballing_ql_construction.py`
+
+> `python sample_data_processing.py`
 
 !Please refer to paper "From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search"
 

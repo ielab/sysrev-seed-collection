@@ -1,6 +1,6 @@
 import json
 
-files = ["seed_and_included.jsonl"]
+filel = "..collection_data/overall_collection.jsonl"
 dic_cand = {}
 with open("data/snowballing/seed_based/seed_and_included/searching_content/search_output.tsv", 'r') as f:
     for line in f:

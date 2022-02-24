@@ -4,11 +4,11 @@ import glob
 from subprocess import Popen, PIPE, STDOUT
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--DATA_DIR", type=str, default="run_snowballing/included")
+parser.add_argument("--DATA_DIR", type=str, default="run_search/single")
 parser.add_argument("--METHOD", type=str, required=True)
 parser.add_argument("--format", type=str, default="all")
-parser.add_argument("--trec_eval", type = str, default="/scratch/itee/uqswan37/Reproduce_SR/trec_eval/trec_eval")
-parser.add_argument("--tar_eval", type = str, default="python3 /scratch/itee/uqswan37/Reproduce_SR/tar/scripts/tar_eval.py")
+parser.add_argument("--trec_eval", type = str, default="trec_eval/trec_eval")
+parser.add_argument("--tar_eval", type = str, default="tar/scripts/tar_eval.py")
 parser.add_argument("--evaluation_type", type=str, default="new")
 args = parser.parse_args()
 

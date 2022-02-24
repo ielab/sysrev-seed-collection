@@ -4,7 +4,7 @@ import glob
 from subprocess import Popen, PIPE, STDOUT
 from tqdm import tqdm
 parser = argparse.ArgumentParser()
-parser.add_argument("--DATA_DIR", type=str, default="run_snowballing/included")
+parser.add_argument("--DATA_DIR", type=str, default="run_search/single")
 parser.add_argument("--AES_METHOD", type=str, default="AES_BOW")
 parser.add_argument("--SDR_METHOD", type=str, default="SDR_BOW")
 parser.add_argument("--COM_METHOD", type=str, default="SDR_BOW_AES")

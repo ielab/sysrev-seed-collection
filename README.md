@@ -30,8 +30,6 @@ The file is separated into two sections:
 ***
 
 
-<br>
-
 ## For folder **experiment**:
 
 Three experiments in the paper are included in this folder, including:

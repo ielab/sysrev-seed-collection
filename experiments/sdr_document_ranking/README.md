@@ -2,7 +2,7 @@
 
 ***
 
-### For reproduce result obtained in paper:
+### For reproduce result obtained in the paper:
 
 Firstly, for single-pseudo-studies experiment:
 
@@ -12,7 +12,7 @@ Firstly, for single-pseudo-studies experiment:
 > `mkdir run_search/single/output` <br>
 > `mkdir run_search/single/eval` <br>
 
-Above code would create folders for input, output and evaluation result of experiment.
+The above code would create folders for input, output and evaluation results of the experiment.
 
 Next, to creatre input (qrels, queries etc), please run:
 
@@ -24,7 +24,7 @@ Next please run:
 
 > Note RANKING_METHOD can include: BM25_BOW, QLM_BOW, SDR_BOW, AES_BOW, AES_BOW_P
 
-You will need to downalod word2vec embeedings in order to run AES method
+You will need to download word2vec embeddings in order to run the AES methods.
 
 Then to generate fused method: SDR_BOW_AES_P, and SDR_BOW_AES, please run:
 
@@ -52,7 +52,7 @@ Next please run:
 
 > `python3 search_multiple.py --METHOD RANKING_METHOD`<br>
 
-ou will need to downalod word2vec embeedings in order to run AES method
+ou will need to download word2vec embeddings in order to run the AES methods
 
 Then to generate fused method: SDR_BOW_AES_P, and SDR_BOW_AES, please run:
 
@@ -79,7 +79,7 @@ Next please run:
 
 > `python3 search_multiple.py --METHOD RANKING_METHOD`<br>
 
-ou will need to downalod word2vec embeedings in order to run AES method
+ou will need to download word2vec embeddings in order to run the AES methods.
 
 Then to generate fused method: SDR_BOW_AES_P, and SDR_BOW_AES, please run:
 
@@ -91,7 +91,4 @@ Then evaluation can be down using:
 
 ***
 
-Please refer to paper "From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search"
-
-
-
+Please refer to the paper "From Little Things Big Things Grow: A Collection with Seed Studies for Medical Systematic Review Literature Search"

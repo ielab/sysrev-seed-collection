@@ -1,7 +1,7 @@
 import json
 import trectools
 
-pes = {"statistic": {"email": "harryscells@gmail.com", "tool": "querylab", "key": "22a11de46af145ce59bb288e0ede66721f09"}, "pmids": []}
+pes = {"statistic": {"email": "email@gmail.com", "tool": "querylab", "key": "api_key"}, "pmids": []}
 pmids = set()
 data = []
 with open("../data/seed_and_included_edited_edited.jsonl", "r") as f:

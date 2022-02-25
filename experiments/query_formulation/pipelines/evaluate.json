@@ -9,9 +9,9 @@ template qrel $2
   "statistic": {
     "source": "entrez",
     "options": {
-      "email": "h.scells@uq.edu.au",
+      "email": "email@gmail.com",
       "tool": "querylab",
-      "key": "eb8d49885d85feea8f7188e9c60d29e3d308",
+      "key": "your_api_key",
       "search": {
         "size": 100000,
         "run_name": "0"

@@ -19,7 +19,8 @@ The file is separated into two sections:
 | Date_to | Corresponds to Date restriction in paper |
 | query | Corresponds to PubMed query in paper |
 | seed_studies | Corresponds to Seed studies in paper |
-| included_studies | Corresponds to DIncluded studies in paper |
+| included_studies | Corresponds to Included studies in paper |
+| edited_search | Stating the edited search queries (with standard format) |
 <br>
 
 >- **search**: a folder containing candidate_documents.res, which is a trec format file for candidate documents retrieved by systematic review boolean queries, this file corresponds to **Retrieved studies** in paper

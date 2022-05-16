@@ -77,24 +77,6 @@ for qid in tqdm(qid_list):
         output_run.write('\n')
 output_run.close()
 
-eval_dict = {}
-eval_list = []
-lines = input_eval.readlines()
-for line in tqdm(lines):
-    items = line.split()
-    qid = items[0]
-    pid = items[2]
-    if qid not in eval_list:
-        eval_list.append(qid)
-    if qid not in eval_dict:
-        eval_dict[qid] = []
-    if int(items[-1]) ==1:
-        if qid in eval_dict:
-            eval_dict[qid].append(pid)
-        else:
-            eval_dict[qid] = [pid]
-
-
 test_eval_set = set()
 lines = input_test_eval.readlines()
 for line in tqdm(lines):
@@ -108,7 +90,7 @@ for item in test_eval_set:
 for qid in tqdm(eval_list):
     output_eval_file = os.path.join(args.DATA_DIR, "input", qid+".qrel")
     output_eval = open(output_eval_file, 'w')
-    data_list = set(eval_dict[qid])
+    data_list = set(doc_positive_dict[qid])
     for pid in data_list:
         id = qid + '_' + pid
         removed_list = [x for x in data_list if x != pid]
